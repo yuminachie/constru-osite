@@ -1,0 +1,50 @@
+@import url(https://db.onlinewebfonts.com/c/f05f148ec6596f0b75375fa566aaf1fe?family=Bely+Display+W00+Regular);
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .logo img{
+    width: 40px;
+    height: auto;
+  }
+  .logo span{
+    font-weight: bold;
+  font-size: 1.2em;
+  color: #009688;
+  }
+  
+  .nav a {
+    margin-left: 20px;
+    font-size: 0.9em;
+  }
+  
+  .request-access {
+    color: #009688;
+    font-weight: bold;
+  }
