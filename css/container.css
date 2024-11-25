@@ -28,12 +28,12 @@
 }
 
 .role {
-    font-size: 14px;
+    font-size: 20px;
     color: #888;
 }
 
 .comment {
-    font-size: 14px;
+    font-size: 20px;
     margin-bottom: 15px;
     color: #333;
 }
@@ -55,7 +55,7 @@
 }
 
 .detail strong {
-    font-size: 16px;
+    font-size: 20px;
     color: #333;
 }
 
@@ -87,6 +87,6 @@
 }
 
 .info-section p {
-    font-size: 1.1em;
+    font-size: 20px;
     color: #555;
 }
