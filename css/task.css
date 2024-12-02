@@ -14,7 +14,9 @@
     padding: 20px;
     background-color: #f9f9f9;
     border-radius: 10px;
-    margin-left: 600px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 400px;
 }
 
 .tasks-container h2 {
